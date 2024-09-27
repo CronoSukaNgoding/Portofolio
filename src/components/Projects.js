@@ -6,6 +6,8 @@ import projImg3 from "../assets/img/Dashboard Admin.png";
 import projImg4 from "../assets/img/HomePage.png";
 import projImg5 from "../assets/img/android with anp.png";
 import projImg6 from "../assets/img/HALOTAX.png";
+import projImg7 from "../assets/img/Project-booking-lapangan.png";
+import projImg8 from "../assets/img/sistem-pakar.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -26,6 +28,16 @@ export const Projects = () => {
       title: "Dashboard Admin",
       description: "Design & Development",
       imgUrl: projImg3,
+    },
+    {
+      title: "Sistem Pakar With SAW Method",
+      description: "Design & Development",
+      imgUrl: projImg7,
+    },
+    {
+      title: "Online Booking Field At Griya Dinar",
+      description: "Design & Development",
+      imgUrl: projImg8,
     },
     {
       title: "Android With Analytic Network Process Algorithm",
