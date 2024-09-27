@@ -32,12 +32,12 @@ export const Projects = () => {
     {
       title: "Sistem Pakar With SAW Method",
       description: "Design & Development",
-      imgUrl: projImg7,
+      imgUrl: projImg8,
     },
     {
       title: "Online Booking Field At Griya Dinar",
       description: "Design & Development",
-      imgUrl: projImg8,
+      imgUrl: projImg7,
     },
     {
       title: "Android With Analytic Network Process Algorithm",
